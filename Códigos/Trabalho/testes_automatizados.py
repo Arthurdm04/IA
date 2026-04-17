@@ -3,7 +3,7 @@ SCRIPT DE TESTES AUTOMATIZADOS
 Valida o sistema especialista com casos predefinidos
 """
 
-from sistema_especialista_v2 import (
+from sistema_especialista import (
     SistemaEspecialista, Sintoma, MotorInferencia, BaseDeRegras
 )
 
