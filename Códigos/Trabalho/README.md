@@ -24,7 +24,7 @@
 ### Execução
 
 ```bash
-python sistema_especialista_v2.py
+python sistema_especialista.py
 ```
 
 ### Fluxo de Execução
